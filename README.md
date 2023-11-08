@@ -8,7 +8,7 @@ Universidad del Sur, Plantel Cancún.
 
 Asignatura: Ingeniería de Software 
 
-28 de octubre de 2023.
+07 de Noviembre de 2023.
 
 Se crea una calculadora en python en donde nos dara mas facilidad en las operaciones.
 La calculadora de operaciones se centra en resolver suma, resta, multiplicacion y division, el codigo se centra en usabilidad y eficiencia.
